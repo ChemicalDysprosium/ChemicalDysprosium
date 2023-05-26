@@ -16,3 +16,8 @@ I mainly code JavaScript but also had some experience with Python and its framew
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
 </p>
 <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enamoredevil&layout=compact" />
+
+<h1 align="left">🌐 Connect with me:</h1>
+<p align="left">
+
+</p>
