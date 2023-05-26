@@ -2,7 +2,7 @@
 <h3 align="left">I'm a frontend web developer who has always been exploring and learning new things not only in programming but also in different areas of life.
 I mainly code JavaScript but also had some experience with Python and its framework - Django</h3>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=enamoredevil&show_icons=true&theme=radical" />
-<img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=enamoredevil&theme=radical&hide_border=false" />
+<img height="200px" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=enamoredevil&theme=radical&hide_border=false" />
 
 
 ---
@@ -17,7 +17,7 @@ I mainly code JavaScript but also had some experience with Python and its framew
 </p>
 <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enamoredevil&layout=compact" />
 
-<h1 align="left">🌐 Connect with me:</h1>
-<p align="left">
+---
 
-</p>
+<h1 align="left">🌐 Connect with me on Telegram: <a href="https://t.me/chemical_dysprosium" target="blank"><img align="center" src="Telegram_logo.svg" alt="telegram" height="40" width="40" /></a></h1>
+
