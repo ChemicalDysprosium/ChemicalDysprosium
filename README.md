@@ -2,7 +2,7 @@
 <h3 align="left">I'm a frontend web developer who has always been exploring and learning new things not only in programming but also in different areas of life.
 I mainly code JavaScript but also had some experience with Python and its framework - Django</h3>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=enamoredevil&show_icons=true&theme=radical" />
-<img height="200px" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=enamoredevil&theme=radical&hide_border=false" />
+<img height="50px" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=enamoredevil&theme=radical&hide_border=false" />
 
 
 ---
