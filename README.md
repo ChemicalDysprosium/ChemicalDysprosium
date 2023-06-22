@@ -21,5 +21,5 @@ I mainly code JavaScript but also had some experience with Python and its framew
 
 ---
 
-<h1 align="left">🌐 Connect with me on Telegram: <a href="https://t.me/chemical_dysprosium" target="_blank"><img align="center" src="Telegram_logo.svg" alt="telegram" height="40" width="40" /></a></h1>
+<h1 align="left">🌐 Reach me on Telegram: <a href="https://t.me/chemical_dysprosium" target="_blank"><img align="center" src="Telegram_logo.svg" alt="telegram" height="40" width="40" /></a></h1>
 
