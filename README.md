@@ -1,5 +1,4 @@
-# 👋
-<h3 align="left">My boat has always been adrift</h3>
+<h2 align="left">My boat has always been adrift</h2>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=enamoredevil&show_icons=true&theme=radical" />
 <img height="165px" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=enamoredevil&theme=radical&hide_border=false" />
 
