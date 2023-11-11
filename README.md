@@ -1,10 +1,3 @@
-<h2 align="left">My boat has always been adrift</h2>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=enamoredevil&show_icons=true&theme=radical" />
-<img height="165px" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=enamoredevil&theme=radical&hide_border=false" />
-
-
----
-
 <h1>💻 Tech Stack:</h1>
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
@@ -21,7 +14,4 @@
 </p>
 <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enamoredevil&layout=compact" />
 
----
-
-<h1 align="left">🌐 Reach me on Telegram: <a href="https://t.me/chemical_dysprosium" target="_blank"><img align="center" src="Telegram_logo.svg" alt="telegram" height="40" width="40" /></a></h1>
 
