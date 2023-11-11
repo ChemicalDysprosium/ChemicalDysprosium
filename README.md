@@ -13,6 +13,6 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </p>
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enamoredevil&layout=compact" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChemicalDysprosium&layout=compact" />
 
 
